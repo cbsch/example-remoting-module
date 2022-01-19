@@ -1,0 +1,1 @@
+Example code for this post: https://cbsch.no/posts/powershell-remoting-wrapper/
